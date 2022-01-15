@@ -1,0 +1,28 @@
+body{
+    text-align: center;
+    background-color: rgb(161, 216, 235);
+}
+.h1-title{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: brown;
+    font-size: 50px;
+
+}
+.h1-subTitle{
+    color: rgb(53, 49, 49);
+    font-size: 30px;
+
+}
+.form input{
+    /* margin-top: -20px; */
+}
+
+.h3{
+    color: rgb(26, 81, 107);
+    margin-top: 30px;
+    margin-bottom: 9px;
+}
+.result{
+    color: rgb(26, 114, 26);
+    margin-top: 5px;
+}
